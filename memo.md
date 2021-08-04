@@ -133,3 +133,9 @@ npx next build
 
 
 
+aws 에서 nginx 서비스종료
+sudo systemctl start nginx 
+sudo systemctl stop nginx 
+sudo systemctl restart nginx
+
+
