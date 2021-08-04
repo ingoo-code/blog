@@ -1,0 +1,5 @@
+node_modules/*
+.next/*
+.eslintrc
+package-lock.json
+next.config.js
