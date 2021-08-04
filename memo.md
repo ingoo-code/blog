@@ -122,6 +122,14 @@ aws 접속후
 
 git clone [원격저장소url]
 
+package.json 
+-> start 부분에서 -p 80 을 추가
+포트를 80으로 시작한다는 의미
+
+
+aws 에서
+
+npx next build
 
 
 
