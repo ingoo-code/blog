@@ -117,3 +117,11 @@ loggerMiddleware 사용해보기..
 npm install redux-thunk 
 
 
+
+aws 접속후 
+
+git clone [원격저장소url]
+
+
+
+
